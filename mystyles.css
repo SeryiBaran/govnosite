@@ -1,0 +1,10 @@
+* {
+  font-family: Roboto;
+}
+*:nth-child(even) {
+  font-family: Geologica;
+}
+*:nth-child(3n) {
+  font-weight: 900;
+  font-family: "Times New Roman";
+}
